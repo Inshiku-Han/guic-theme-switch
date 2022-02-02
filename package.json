@@ -1,6 +1,7 @@
 {
   "name": "guic-theme-switch",
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -9,8 +10,5 @@
   "devDependencies": {
     "postcss-preset-env": "^7.3.0",
     "vite": "^2.7.2"
-  },
-  "dependencies": {
-    "blingblingjs": "^2.3.0"
   }
 }
